@@ -11,9 +11,9 @@
 ![Queue](https://img.shields.io/badge/Queue-Apache%20Kafka-black)
 ![Deploy](https://img.shields.io/badge/Deploy-Docker-2496ED)
 
-[Документация](docs/Сопроводительная_документация_Команда_№12.pdf)
+[Документация](Сопроводительная_документация_Команда_№12.pdf)
 
-[Презентация](docs/Презентация_Питч_Команда_№12.pptx)
+[Презентация](https://drive.google.com/file/d/1HnmtSc2G_DOjVWpGNFduF5JX7xM0_nT3/view?usp=sharing)
 
 [Frontend-репозиторий](https://github.com/exsec-dev/istok)
 
